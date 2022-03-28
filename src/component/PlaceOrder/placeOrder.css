@@ -1,0 +1,10 @@
+.gif-container {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gif-container img {
+  margin-top: 30px;
+  width: 50%;
+}
